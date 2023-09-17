@@ -1,6 +1,7 @@
 # PythonPinnacle
 "PythonPinnacle" is my personal showcase of Python projects. It serves as a portfolio of my best work in Python programming, providing a snapshot of my skills.
 ## Project Description: Diwali Sales Data Analysis
+![anirudh-ib3d1uX1LLc-unsplash](https://github.com/pallavi-2424/PythonPinnacle/assets/144513254/d7d36427-23a3-44cb-a1b1-a6b6f75157a5)
 
 ### Introduction
 The "Diwali Sales Data Analysis" project involves exploring and analyzing a dataset containing sales data related to Diwali, a significant festival in India. The dataset provides insights into customer behavior, products, and sales during the festival season. In this analysis, I aim to uncover patterns, trends, and interesting insights from the data to understand customer preferences and behaviors during Diwali.
